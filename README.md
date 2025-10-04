@@ -1,2 +1,2 @@
-# 学校のパソコンに設定されている制限を技術的に回避するツール
-本情報は、研究目的での利用を想定していますが、その実行に際しては、すべてご自身の責任において行ってください。学校の規約違反、情報セキュリティリスク、法的責任など、あらゆる事態に対して当方は一切の責任を負いません。研究の公正性と倫理規定を遵守し、事前に学校関係者から正式な許可を得ることを強く推奨します。
+# 学校のパソコンに設定されている制限を技術的に回避するツール (A tool to technically circumvent restrictions set on school computers)
+本情報は、研究目的での利用を想定していますが、その実行に際しては、すべてご自身の責任において行ってください。学校の規約違反、情報セキュリティリスク、法的責任など、あらゆる事態に対して当方は一切の責任を負いません。研究の公正性と倫理規定を遵守し、事前に学校関係者から正式な許可を得ることを強く推奨します。(This information is intended for research purposes, but any use of this information is at your own risk. We assume no responsibility for any violations of school regulations, information security risks, or legal liability. We strongly recommend that you adhere to research integrity and ethical standards and obtain formal permission from school officials in advance.)
