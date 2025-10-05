@@ -20,9 +20,9 @@ Mozilla Firefox（モジラ・ファイアーフォックス）は、非営利�
 無料で使用できたプロキシサイト。また使えるようになっていたら教えてください。
 ## 自作プロキシ(Homemade proxy)
 誰でも作れる自作プロキシ(Homemade proxy that anyone can make)
-## GAS(Google App Script)
+## [GAS](https://script.google.com/home)(Google App Script)
 Googleが提供するJavaScriptベースのスクリプト言語で、Google Workspaceの各種アプリケーション（スプレッドシート、ドキュメント、Gmail、カレンダーなど）を自動化・連携・拡張するためのプラットフォームです。プログラミングの知識があれば、Googleのサービスをより便利に、効率的に利用できるようになります。 (Google Workspace is a JavaScript-based scripting language provided by Google, and is a platform for automating, integrating, and extending various Google Workspace applications (Spreadsheets, Docs, Gmail, Calendar, etc.). Programming knowledge will allow you to use Google services more conveniently and efficiently.)
-## レプリット(Replit)
+## [レプリット](https://replit.com/~)(Replit)
 インストール不要でブラウザ上で利用できるオンラインの統合開発環境（IDE）です。(It is an online integrated development environment (IDE) that can be used in a browser without installation.)
 ### ~~グリッチ(Glitch)~~
 2025年8月まで使用可能であったブラウザ上で利用できるオンラインの統合開発環境。
