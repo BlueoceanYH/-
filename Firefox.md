@@ -9,3 +9,4 @@ Various pop-ups will appear, but basically just click Allow and Next for all of 
 ## 4.デスクトップにFireFoxのアイコンをしたショートカットが出てくる
 A shortcut with the FireFox icon will appear on your desktop
 ## [FireFoxを隠す](Camouflage.md)
+## [FireFoxのProxy](Firefox_proxy.md)
