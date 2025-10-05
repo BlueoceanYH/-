@@ -2,7 +2,7 @@
 本情報は、研究目的での利用を想定していますが、その実行に際しては、すべてご自身の責任において行ってください。学校・職場の規約違反、情報セキュリティリスク、法的責任など、あらゆる事態に対して当方は一切の責任を負いません。研究の公正性と倫理規定を遵守し、事前に関係者から正式な許可を得ることを強く推奨します。(This information is intended for research purposes, but any use of this information is at your own risk. We assume no responsibility for any violations of school regulations, information security risks, or legal liability. We strongly recommend that you adhere to research integrity and ethical standards and obtain formal permission from officials in advance.)
 ## [アプリケーションのインストール](Install.md)(Installing the application)
 アプリケーションのインストール方法(How to install the application)
-## ファイヤーフォックス(FireFox)
+## [ファイヤーフォックス](Firefox.md)(FireFox)
 Mozilla Firefox（モジラ・ファイアーフォックス）は、非営利団体であるMozilla Foundation（モジラ財団）が開発している、無料で使えるウェブブラウザです。 比較的知名度が高く、カスタマイズ性の高いブラウザです。(Mozilla Firefox is a free web browser developed by the non-profit organization Mozilla Foundation. It is a relatively well-known and highly customizable browser.)
 ### カモフラージュ(camouflage)
 ファイヤーフォックスは見た目がChromeと大きく異なります。そこで、見た目をChromeへ似せます。(Firefox looks very different from Chrome, so we'll make it look like Chrome.)
