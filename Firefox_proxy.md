@@ -10,6 +10,7 @@ Windscribeをクリックすると、ログインが必要と出てくるため�
 ログインした後、左上の三本からConnectionの項目へ行き、その中のProxyPorを9443から443へ変更する(これをしないとブロックされてしまう）。
 
 <img width="301" height="428" alt="image" src="https://github.com/user-attachments/assets/f8dec522-ac54-4339-bd16-c12e6932b9c6" />
+
 ## 3.拡張機能を使う
 電源ボタンのようなものをクリックすると、左にON,000,0000,000のようなものと、AutoPilotと表示されます。この状態であればブロックされているサイトへのアクセスが可能になります。
 
