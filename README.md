@@ -14,7 +14,7 @@ Mozilla Firefox（モジラ・ファイアーフォックス）は、非営利�
 ノルウェーのVivaldi Technologies社が開発している、多機能かつ高いカスタマイズ性を誇るウェブブラウザです。とても軽いことで有名です。Chrome,Firefox両方の拡張機能に対応しています。(Developed by the Norwegian company Vivaldi Technologies, this web browser boasts many features and is highly customizable. It is known for being very lightweight and supports extensions for both Chrome and Firefox.)
 ## クロームプロキシ(Chrome Proxy)
 クロームで使用可能なプロキシ(Proxies that can be used in Chrome)
-### スタートページ.com(startpage.com)
+### [スタートページ.com](startpage.com)(startpage.com)
 ユーザーのプライバシー保護を最優先にしている検索エンジンです。プロキシを使用することが可能です。(This search engine prioritizes user privacy and allows the use of proxies.)
 ### ~~クロシープロキシー.com(CroxyProxy.com)~~
 無料で使用できたプロキシサイト。また使えるようになっていたら教えてください。
