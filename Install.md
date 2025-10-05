@@ -17,4 +17,4 @@ A screen like this will appear, so left-click Allow under Security.
 Left click Apply below
 ## 6.インストールしたいアプリケーションをダブルクリック
 Double-click the application you want to install
-
+## [FireFox](Firefox.md)
