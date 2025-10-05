@@ -1,5 +1,10 @@
-# FireFoxのインストール方法(How to install FireFox)
-## 1.[FireFox公式サイト](https://firefox.com)からFirefoxInstallerをダウンロード(Download Firefox Installer from the official FireFox website)
-## 2.ダウンロード後、即インストーラーをダブルクリックまたは、[アプリケーションのインストール方法](Install.md)より、インストール(After downloading, double-click the installer or install it using the application installation method)
-## 3.色々ポップアップが出てくるが、基本どれも許可・次へをクリックする。(Various pop-ups will appear, but basically just click Allow and Next for all of them)
-## 4.デスクトップにFireFoxのアイコンをしたショートカットが出てくる(A shortcut with the FireFox icon will appear on your desktop)
+# FireFoxのインストール方法
+How to install FireFox
+## 1.[FireFox公式サイト](https://firefox.com)からFirefoxInstallerをダウンロード
+Download Firefox Installer from the official FireFox website
+## 2.ダウンロード後、即インストーラーをダブルクリックまたは、[アプリケーションのインストール方法](Install.md)より、インストール
+After downloading, double-click the installer or install it using the application installation method
+## 3.色々ポップアップが出てくるが、基本どれも許可・次へをクリックする。
+Various pop-ups will appear, but basically just click Allow and Next for all of them
+## 4.デスクトップにFireFoxのアイコンをしたショートカットが出てくる
+A shortcut with the FireFox icon will appear on your desktop
