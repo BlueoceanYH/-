@@ -4,7 +4,7 @@
 アプリケーションのインストール方法(How to install the application)
 ## [ファイヤーフォックス](Firefox.md)(FireFox)
 Mozilla Firefox（モジラ・ファイアーフォックス）は、非営利団体であるMozilla Foundation（モジラ財団）が開発している、無料で使えるウェブブラウザです。 比較的知名度が高く、カスタマイズ性の高いブラウザです。(Mozilla Firefox is a free web browser developed by the non-profit organization Mozilla Foundation. It is a relatively well-known and highly customizable browser.)
-### [カモフラージュ](Camoflage.md)(camouflage)
+### [カモフラージュ](Camouflage.md)(camouflage)
 ファイヤーフォックスは見た目がChromeと大きく異なります。そこで、見た目をChromeへ似せます。(Firefox looks very different from Chrome, so we'll make it look like Chrome.)
 ### プロキシ・VPN（proxy・VPN)
 ファイヤーフォックスでは拡張機能へ制限がかけられていません。なので、拡張機能を生かすことでプロキシ・VPNを使用することが可能です。(Firefox does not restrict extensions, so you can use proxies and VPNs by using extensions.)
