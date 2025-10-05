@@ -8,7 +8,7 @@ Mozilla Firefox（モジラ・ファイアーフォックス）は、非営利�
 ファイヤーフォックスは見た目がChromeと大きく異なります。そこで、見た目をChromeへ似せます。(Firefox looks very different from Chrome, so we'll make it look like Chrome.)
 ### [プロキシ・VPN](Firefox_proxy.md)（proxy・VPN)
 ファイヤーフォックスでは拡張機能へ制限がかけられていません。なので、拡張機能を生かすことでプロキシ・VPNを使用することが可能です。(Firefox does not restrict extensions, so you can use proxies and VPNs by using extensions.)
-## ヴィヴァルディ(Vivaldi)
+## [ヴィヴァルディ](Vivaldi.md)(Vivaldi)
 ノルウェーのVivaldi Technologies社が開発している、多機能かつ高いカスタマイズ性を誇るウェブブラウザです。とても軽いことで有名です。Chrome,Firefox両方の拡張機能に対応しています。(Developed by the Norwegian company Vivaldi Technologies, this web browser boasts many features and is highly customizable. It is known for being very lightweight and supports extensions for both Chrome and Firefox.)
 ## クロームプロキシ(Chrome Proxy)
 クロームで使用可能なプロキシ(Proxies that can be used in Chrome)
