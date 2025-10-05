@@ -18,3 +18,4 @@ Left click Apply below
 ## 6.インストールしたいアプリケーションをダブルクリック
 Double-click the application you want to install
 ## [FireFox](Firefox.md)
+## [理由](Install_why.md)
