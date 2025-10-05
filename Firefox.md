@@ -8,3 +8,4 @@ After downloading, double-click the installer or install it using the applicatio
 Various pop-ups will appear, but basically just click Allow and Next for all of them
 ## 4.デスクトップにFireFoxのアイコンをしたショートカットが出てくる
 A shortcut with the FireFox icon will appear on your desktop
+## [FireFoxを隠す](Camoufalge.md)
